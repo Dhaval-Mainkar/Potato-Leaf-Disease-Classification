@@ -4,7 +4,7 @@
 :black_circle: Farmers are facing a lot of economic losses every year because of various diseases that can happen to potato plants. There are 2 common diseases known as early blight and late blight and if a farmer can detect these diseases early and apply appropriate treatment then it can save a lot of waste and economic loss. The treatment for early blight and late blight are different that's why it is important to classify what kind of disease the potato plant has\
 :black_circle: During this project different methods were tried like building Transfer Learning, building a Convolutional Neural Network from scratch using data augmentation. \
 :black_circle: As the Transfer Learning model provided better accuracy. It was taken into account. \
-:black_circle: A RESNET 50 model was used during this project. \
+:black_circle: A RESNET 50 model was used during this project. 
 
 
 ## :rocket: Deployment ##
@@ -18,4 +18,4 @@ Working Demo: https://dhaval-mainkar-potato-leaf-disease-classification-webapp-k
 
 ## :computer: Tools and Technologies ##
 :ballot_box_with_check: Google Collab - For faster processing, it is recommended to use google collab by setting the runtime to GPU \
-:ballot_box_with_check: Streamlit \
+:ballot_box_with_check: Streamlit 
