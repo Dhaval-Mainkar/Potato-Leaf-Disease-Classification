@@ -10,9 +10,10 @@
 ## :rocket: Deployment ##
 Working Demo: https://dhaval-mainkar-potato-leaf-disease-classification-webapp-kukqjp.streamlit.app/
 
-## :frame_with_picture: Screenshots ##
+## 🖼️_picture: Screenshots ##
 ![Screenshot (64)](https://user-images.githubusercontent.com/53887636/236695821-1aafa322-0dcf-41e5-bda7-faf875d94713.png)
 ![Screenshot (65)](https://user-images.githubusercontent.com/53887636/236694726-1dd95cad-aff1-4431-966a-ed25af00047a.png)
+![Screenshot (68)](https://user-images.githubusercontent.com/53887636/236696018-4aa5613e-e1b2-4566-b518-ffb04d56f9cd.png)
 ![Screenshot (66)](https://user-images.githubusercontent.com/53887636/236694458-59e23062-7d05-408e-ab24-cf696049f917.png)
 
 
